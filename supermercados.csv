@@ -1,0 +1,372 @@
+,Nombre,Direccion,Comuna
+0,Express de Lider,Av. Nueva Providencia #2249,Providencia
+1,Express de Lider,Pedro de Valdivia 1885,Providencia
+2,Lider,Av. Irarrázaval 2928,Ñuñoa
+3,Express de Lider,Vitacura 4100,Vitacura
+4,Express de Lider,Cuarto Centenario 1016,Las Condes
+5,Express de Lider,Av. Las Condes 10295,Las Condes
+6,Express de Lider,El Rodeo 12850,Lo Barnechea
+7,Express de Lider,Manuel Montt 80,Providencia
+8,Lider,Gran Avenida 6150,San Miguel
+9,Lider,Matucana 1202,Quinta Normal
+10,Lider,Av. Américo Vespucio 1737,Huechuraba
+11,Lider,Av. Américo Vespucio 3100,Peñalolén
+12,Lider,Av. Américo Vespucio Norte 1955,Maipú
+13,Lider,Av. Pajarito 2689,Maipú
+14,Lider,Av. Los Toros 05441,Puente Alto
+15,Lider,Av. Ohiggins 314,Quilicura
+16,Express de Lider,Las Camelias 2875,Providencia
+17,Express de Lider,Av. Grecia 245,Ñuñoa
+18,Lider,V. Mackenna 7196,La Florida
+19,Lider,Av. José Pedro Alessandri 2127,Macul
+20,Express de Lider,Gran Avenida 4004,San Miguel
+21,Lider,Buenaventura 1770,Vitacura
+22,Express de Lider,A. Vespucio Sur 1790,Las Condes
+23,Express de Lider,Ramón Freire 1790,Maipú
+24,Lider,Froilan Roa 7107 Local 64,La Florida
+25,Express de Lider,Apoquindo 6060,Las Condes
+26,Express de Lider,Rancagua 0180,Providencia
+27,Lider,Av. Bdo. O´Higgins #807,Talagante
+28,Lider,Americo Vespucio Sur 881,Ñuñoa
+29,Lider,Av. Padre Alberto Hurtado 060,Estación Central
+30,Lider,Av. Concha y Toro 1149,Puente Alto
+31,Express de Lider,Tomás Moro 1590,Las Condes
+32,Lider,Av. Pajaritos 4500,Maipú
+33,Lider,Américo Vespucio 6325,La Florida
+34,Lider,Independencia 4142,Conchalí
+35,Lider,San José 69,San Bernardo
+36,Lider,Santa Amalia 1763,La Florida
+37,Lider,Américo Vespucio 2500,Cerrillos
+38,Lider,Recoleta 3501,Recoleta
+39,Lider,Santa Rosa 9233,San Ramón
+40,Lider,Camino El Alba 11865,Las Condes
+41,Lider,Jorge Alessandri 1131,La Reina
+42,Lider,Avda. Las Condes 12916,Lo Barnechea
+43,Express de Lider,Huérfanos 827,Santiago
+44,Lider,Neptuno N°720,Lo Prado
+45,Express de Lider,Av. Chicureo s/n Sector Laguna Piedra Roja,Colina
+46,Express de Lider,Av. Lib. Bernardo O´Higgins 5199,Estación Central
+47,Express de Lider,San Martin S/N,Colina
+48,Central Mayorista,San Luis de Macul 4335,Peñalolén
+49,Superbodega Acuenta,Eyzaguirre Oriente,Puente Alto
+50,Express de Lider,Av. Irarrázaval 5353,Ñuñoa
+51,Superbodega Acuenta,Avenida Matta 1400,Quilicura
+52,Superbodega Acuenta,Eucaliptus 81,San Bernardo
+53,Express de Lider,Isabel Riquelme Sur S/N,Maipú
+54,Express de Lider,Irarrázaval Av. 2410,Ñuñoa
+55,Lider,Maipu s/n,Buin
+56,Superbodega Acuenta,Lo Martines/Tucapel,El Bosque
+57,Express de Lider,Isabel La Catolica / Vespucio,Las Condes
+58,Express de Lider,Av. Salvador 1824-1848,Ñuñoa
+59,Express de Lider,Jose Domingo Cañas 1580,Ñuñoa
+60,Superbodega Acuenta,Santa Inés 2189,Conchalí
+61,Express de Lider,San Diego 219,Renca
+62,Express de Lider,Curicó 517,Santiago
+63,Express de Lider,San Pablo 2902,Santiago
+64,Express de Lider,Providencia 1630,Providencia
+65,Express de Lider,Bandera 814,Santiago
+66,Express de Lider,Alameda 2843,Santiago
+67,Express de Lider,Colombia 7111,La Florida
+68,Express de Lider,Jose L. Coo 0158,Puente Alto
+69,Express de Lider,P. de Valdivia 5359,Ñuñoa
+70,Express de Lider,Recoleta 2302,Recoleta
+71,Express de Lider,Coventry 601,Ñuñoa
+72,Express de Lider,Tobalaba 1177,Providencia
+73,Express de Lider,V. Mackenna 9840,La Florida
+74,Express de Lider,Grajales 2146,Santiago
+75,Express de Lider,El Olimpo 1990,Maipú
+76,Express de Lider,General Jose Artigas 2877,Ñuñoa
+77,Express de Lider,Santa Isabel 861,Providencia
+78,Express de Lider,Galileo 1610,Cerrillos
+79,Express de Lider,Vitacura 5302,Vitacura
+80,Express de Lider,Ramón Cruz 3219,Macul
+81,Express de Lider,Irarrázaval 710,Ñuñoa
+82,Express de Lider,Carrascal 4436,Quinta Normal
+83,Express de Lider,Primo de Rivera 1447,Maipú
+84,Express de Lider,Bagdad 855-877,Maipú
+85,Express de Lider,Los Leones 1875,Providencia
+86,Express de Lider,Laguna Sur - J. Guzmán,Pudahuel
+87,Express de Lider,San Pablo 9091,Pudahuel
+88,Express de Lider,V. Mackenna 8725-8799,La Florida
+89,Express de Lider,Jorge Monckeberg 1911,Ñuñoa
+90,Express de Lider,Eliodoro Yáñez 1405,Providencia
+91,Express de Lider,Las Rejas Sur 882,Estación Central
+92,Express de Lider,Vicuña Mackenna 1918,Peñaflor
+93,Express de Lider,Independencia 650,Independencia
+94,Express de Lider,El Salto 1871,Recoleta
+95,Express de Lider,Lira 464,Santiago
+96,Express de Lider,Santa Luisa 366,Quilicura
+97,Express de Lider,Bellavista 257,Recoleta
+98,Express de Lider,Juan de Dios Malebrán 1750,Puente Alto
+99,Express de Lider,Segunda Transversal 1022,Maipú
+100,Express de Lider,Av. Nueva Providencia #2249,Providencia
+101,Express de Lider,Pedro de Valdivia 1885,Providencia
+102,Lider,Av. Irarrázaval 2928,Ñuñoa
+103,Express de Lider,Vitacura 4100,Vitacura
+104,Express de Lider,Cuarto Centenario 1016,Las Condes
+105,Express de Lider,Av. Las Condes 10295,Las Condes
+106,Express de Lider,El Rodeo 12850,Lo Barnechea
+107,Express de Lider,Manuel Montt 80,Providencia
+108,Lider,Gran Avenida 6150,San Miguel
+109,Lider,Matucana 1202,Quinta Normal
+110,Lider,Av. Américo Vespucio 1737,Huechuraba
+111,Lider,Av. Américo Vespucio 3100,Peñalolén
+112,Lider,Av. Américo Vespucio Norte 1955,Maipú
+113,Lider,Av. Pajarito 2689,Maipú
+114,Lider,Av. Los Toros 05441,Puente Alto
+115,Lider,Av. Ohiggins 314,Quilicura
+116,Express de Lider,Las Camelias 2875,Providencia
+117,Express de Lider,Av. Grecia 245,Ñuñoa
+118,Lider,V. Mackenna 7196,La Florida
+119,Lider,Av. José Pedro Alessandri 2127,Macul
+120,Express de Lider,Gran Avenida 4004,San Miguel
+121,Lider,Buenaventura 1770,Vitacura
+122,Express de Lider,A. Vespucio Sur 1790,Las Condes
+123,Express de Lider,Ramón Freire 1790,Maipú
+124,Lider,Froilan Roa 7107 Local 64,La Florida
+125,Express de Lider,Apoquindo 6060,Las Condes
+126,Express de Lider,Rancagua 0180,Providencia
+127,Lider,Av. Bdo. O´Higgins #807,Talagante
+128,Lider,Americo Vespucio Sur 881,Ñuñoa
+129,Lider,Av. Padre Alberto Hurtado 060,Estación Central
+130,Lider,Av. Concha y Toro 1149,Puente Alto
+131,Express de Lider,Tomás Moro 1590,Las Condes
+132,Lider,Av. Pajaritos 4500,Maipú
+133,Lider,Américo Vespucio 6325,La Florida
+134,Lider,Independencia 4142,Conchalí
+135,Lider,San José 69,San Bernardo
+136,Lider,Santa Amalia 1763,La Florida
+137,Lider,Américo Vespucio 2500,Cerrillos
+138,Lider,Recoleta 3501,Recoleta
+139,Lider,Santa Rosa 9233,San Ramón
+140,Lider,Camino El Alba 11865,Las Condes
+141,Lider,Jorge Alessandri 1131,La Reina
+142,Lider,Avda. Las Condes 12916,Lo Barnechea
+143,Express de Lider,Huérfanos 827,Santiago
+144,Lider,Neptuno N°720,Lo Prado
+145,Express de Lider,Av. Chicureo s/n Sector Laguna Piedra Roja,Colina
+146,Express de Lider,Av. Lib. Bernardo O´Higgins 5199,Estación Central
+147,Express de Lider,San Martin S/N,Colina
+148,Central Mayorista,San Luis de Macul 4335,Peñalolén
+149,Superbodega Acuenta,Eyzaguirre Oriente,Puente Alto
+150,Express de Lider,Av. Irarrázaval 5353,Ñuñoa
+151,Superbodega Acuenta,Avenida Matta 1400,Quilicura
+152,Superbodega Acuenta,Eucaliptus 81,San Bernardo
+153,Express de Lider,Isabel Riquelme Sur S/N,Maipú
+154,Express de Lider,Irarrázaval Av. 2410,Ñuñoa
+155,Lider,Maipu s/n,Buin
+156,Superbodega Acuenta,Lo Martines/Tucapel,El Bosque
+157,Express de Lider,Isabel La Catolica / Vespucio,Las Condes
+158,Express de Lider,Av. Salvador 1824-1848,Ñuñoa
+159,Express de Lider,Jose Domingo Cañas 1580,Ñuñoa
+160,Superbodega Acuenta,Santa Inés 2189,Conchalí
+161,Express de Lider,San Diego 219,Renca
+162,Express de Lider,Curicó 517,Santiago
+163,Express de Lider,San Pablo 2902,Santiago
+164,Express de Lider,Providencia 1630,Providencia
+165,Express de Lider,Bandera 814,Santiago
+166,Express de Lider,Alameda 2843,Santiago
+167,Express de Lider,Colombia 7111,La Florida
+168,Express de Lider,Jose L. Coo 0158,Puente Alto
+169,Express de Lider,P. de Valdivia 5359,Ñuñoa
+170,Express de Lider,Recoleta 2302,Recoleta
+171,Express de Lider,Coventry 601,Ñuñoa
+172,Express de Lider,Tobalaba 1177,Providencia
+173,Express de Lider,V. Mackenna 9840,La Florida
+174,Express de Lider,Grajales 2146,Santiago
+175,Express de Lider,El Olimpo 1990,Maipú
+176,Express de Lider,General Jose Artigas 2877,Ñuñoa
+177,Express de Lider,Santa Isabel 861,Providencia
+178,Express de Lider,Galileo 1610,Cerrillos
+179,Express de Lider,Vitacura 5302,Vitacura
+180,Express de Lider,Ramón Cruz 3219,Macul
+181,Express de Lider,Irarrázaval 710,Ñuñoa
+182,Express de Lider,Carrascal 4436,Quinta Normal
+183,Express de Lider,Primo de Rivera 1447,Maipú
+184,Express de Lider,Bagdad 855-877,Maipú
+185,Express de Lider,Los Leones 1875,Providencia
+186,Express de Lider,Laguna Sur - J. Guzmán,Pudahuel
+187,Express de Lider,San Pablo 9091,Pudahuel
+188,Express de Lider,V. Mackenna 8725-8799,La Florida
+189,Express de Lider,Jorge Monckeberg 1911,Ñuñoa
+190,Express de Lider,Eliodoro Yáñez 1405,Providencia
+191,Express de Lider,Las Rejas Sur 882,Estación Central
+192,Express de Lider,Vicuña Mackenna 1918,Peñaflor
+193,Express de Lider,Independencia 650,Independencia
+194,Express de Lider,El Salto 1871,Recoleta
+195,Express de Lider,Lira 464,Santiago
+196,Express de Lider,Santa Luisa 366,Quilicura
+197,Express de Lider,Bellavista 257,Recoleta
+198,Express de Lider,Juan de Dios Malebrán 1750,Puente Alto
+199,Express de Lider,Segunda Transversal 1022,Maipú
+200,Jumbo Chamisero,Av. Santa María 14.601, Colina
+201,Jumbo Puertas de Chicureo,Avendida Chicureo 130, Colina
+202,Jumbo Independencia,Av Independencia 565, Independencia
+203,Jumbo La Florida ,Avda. Vicuña Mackenna 6100, La Florida
+204,Jumbo Bilbao,Avda. Francisco Bilbao 4144, Las Condes
+205,Jumbo Kennedy,Avda. Kennedy 9001, Las Condes
+206,Jumbo La Reina ,Av. Francisco Bilbao 8750, Las Condes
+207,Jumbo Los Dominicos ,Avda. Camino el Alba 11.969, Las Condes
+208,Jumbo La Dehesa ,Av. La Dehesa 1445, Lo Barnechea
+209,Jumbo Los Trapenses ,Av. Camino Los Trapenses #3515, Lo Barnechea
+210,Jumbo Maipú,Av. Américo Vespucio 1001, Maipú
+211,Jumbo Pajaritos,Av. Pajaritos 3302, Maipú
+212,Jumbo Ñuñoa,Av. José Pedro Alessandri 1166, Ñuñoa
+213,Jumbo Peñalolén,Av. Sánchez Fontecilla 12.000, Peñalolén
+214,Jumbo Costanera Center,Avda. Andrés Bello 2465, Providencia
+215,Jumbo Concha y Toro ,Av. Concha y Toro 3854, Puente Alto
+216,Jumbo Puente Alto (Plaza Puente),Santo Domingo 67, Puente Alto
+217,Jumbo San Bernardo,Av. Portales 3698, San Bernardo
+218,Jumbo El LLano ,El Llano Subercaseaux 3519, San Miguel
+219,Jumbo Lo Castillo ,Eduardo Marquina 3412, Vitacura
+220,Pirque,Virginia Subercaseux 447, Pirque
+221,Conchalí,Av. Cardenal Caro 1771, Conchalí
+222,"Alcázar, Ciudad Satélite",Av. Alcalde Luis Infante Larraín 1320, Maipú
+223,Almirante Riveros,Av. Almirante Riveros 1202, San Bernardo
+224,Apoquindo,Av. Apoquindo 7200, Las Condes
+225,Artesanos,Manquehue Sur 329, Las Condes
+226,Bandera,Bandera 201, Santiago
+227,Bilbao,Av. Francisco Bilbao 2855, Providencia
+228,Bustamante,Av. Vicuña Mackenna 1048, Ñuñoa
+229,Calera de Tango,Av. Calera de Tango esq. Lonquen s/n, Calera de Tango
+230,Cantagallo,Av. Las Condes 12207, Las Condes
+231,Catamarca,Salvador Gutiérrez 5496, Quinta Normal
+232,Ciudad Satélite,Av. P. Central Poniente 1040, Maipú
+233,Colina,Caletera Oriente, Colina
+234,Compañía,Compañía 2305, Santiago
+235,Consistorial,Av. Consistorial 2100, Peñalolén
+236,Curacaví,Ambrosio O'Higgins 1689, Curacaví
+237,Dorsal,Av. Independencia 3160, Independencia
+238,Down Town,Av. Bernardo O'Higgins 1449, Santiago
+239,El Alba,Av. La Florida 10149, La Florida
+240,El Bosque,Gran Avenida 9863, El Bosque
+241,"El Bosque, Maipú",Capellán Florencio Infante 3330, Maipú
+242,El Gabino,El Gabino 13551, Lo Barnechea
+243,El Peñón,Av. Camino San José de Maipo 07722 -  Local 1, Puente Alto
+244,Estación Central,Alameda 3390, Estación Central
+245,Eucaliptus,Eucaliptus 273, San Bernardo
+246,Fleming,Av. Padre Hurtado 1621, Las Condes
+247,Franklin,Santa Rosa 2055, Santiago
+248,Grajales,Almirante Latorre 310, Santiago
+249,Grecia,Av. Grecia 5791, Peñalolén
+250,Huérfanos,Huérfanos 1437, Santiago
+251,Intermodal,Av. Ossa 36, La Cisterna
+252,"La Cisterna, Paradero 18",Av. José Miguel Carrera 6610, La Cisterna
+253,La Farfana,Av. El Rosal 3999, Pudahuel
+254,"La Florida, Enrique Olivares",Av. La Florida 9385, La Florida
+255,La Granja,Santa Rosa 7668, La Granja
+256,La Islita,Av. Balmaceda 4316, Isla de Maipo
+257,La Pintana,Av. Santa Rosa 13015, La Pintana
+258,La Travesía,Isla Portezuelo 615, Pudahuel
+259,Larraín,Av. Larraín 6677, La Reina
+260,Las Rejas,Ecuador 5455, Lo Prado
+261,Lo Campino,Av. Las Torres 450, Quilicura
+262,Lo Marcoleta,Av. Lo Marcoleta 361, Quilicura
+263,Los Dominicos,Apoquindo 8450, Las Condes
+264,Los Pensamientos,Los Pensamientos 10260, La Granja
+265,Maipú Centro,Av. Pajaritos 1948, Maipú
+266,Manso,Av. Manso 533, Melipilla
+267,Mapocho,Av. Ismael Valdés Vergara 838, Santiago
+268,Ochagavía,Av. José Joaquín Prieto 5531, Pedro Aguirre Cerda
+269,Padre Hurtado,Camino Melipilla 2390, Padre Hurtado
+270,Paine,Av. General Baquedano 502, Paine
+271,Pajarito Las Parcelas,Av. Pajaritos 4909, Maipú
+272,Pajarito Vespucio,Av. Américo Vespucio Norte 51, Maipú
+273,Patio La Reina,Av. Larraín 8751, La Reina
+274,Pedro Fontova,Pedro Fontova 7789, Huechuraba
+275,Peñaflor,Av. Vicuña Mackenna 2005, Peñaflor
+276,Plaza Don Carlos,Av. Carlos Ossandón 1301, La Reina
+277,Plazuela Independencia,Av. Concha y Toro 1036, Puente Alto
+278,Portugal,Portugal 112, Santiago
+279,Providencia,Providencia 2178, Providencia
+280,Recoleta,Av. Recoleta 2746, Recoleta
+281,Renca,Av. Domingo Santa Maria 3962, Renca
+282,San Diego,San Diego 235, Santiago
+283,San Pablo,Av. San Pablo 4870, Quinta Normal
+284,Talagante,Av. Bernardo O'Higgins 200, Talagante
+285,Tobalaba,Av. Tobalaba 13949, Peñalolén
+286,"Tres Poniente, Maipú",3 Poniente 2600, Maipú
+287,Trinidad,Av. Trinidad 125, La Florida
+288,Valle Grande,Av. General San Martin 47, Lampa
+289,Vicuña Mackena,Av. Vicuña Mackena 220, Melipilla
+290,Vitacura,Av. Vitacura 6255, Vitacura
+291,Vivaceta,Vivaceta 957, Independencia
+292,Carlos Valdovinos,Carlos Valdovinos 2020, Pedro Aguirre Cerda
+293,Unimarc,Arturo Prat 295,Til-til
+294,Unimarc,Av. Ambrosio O'higgins 1920,Curacavi
+295,Unimarc,Av. Francia 640,Lampa
+296,Unimarc,Avenida Los Halcones 2180,Lampa
+297,Unimarc,Av. Francia 640,Lampa
+298,Unimarc,Avenida Los Halcones 2180,Lampa
+299,Unimarc,Ignacio Carrera Pinto 385713,Ñuñoa
+300,Unimarc,Av. Irarrazaval 4354,Ñuñoa
+301,Unimarc,General Jose Artigas 3250,Ñuñoa
+302,Unimarc,Obispo Orrego 1250,Ñuñoa
+303,Unimarc,Av. Grecia 320,Ñuñoa
+304,Unimarc,Avenida Irarrazaval 1740,Ñuñoa
+305,Unimarc,Avenida Viuña Mackenna 9090,La florida
+306,Unimarc,Av. Vicuña Mackenna 6331,La florida
+307,Unimarc,Vicuña Mackena 7802,La florida
+308,Unimarc,Rojas Magallanes 3638,La florida
+309,Unimarc,Camino Nos a Los Morros 565,San bernardo
+310,Unimarc,Gonzalo Bulnes 2407,Quinta normal
+311,Unimarc,Gonzalo Bulnes 2407,Quinta normal
+312,Unimarc,Av. Apoquindo 4335,Las condes
+313,Unimarc,Av. Manquehue 1700,Las condes
+314,Unimarc,Manquehue 457,Las condes
+315,Unimarc,Avenida Jose Miguel Carrera 5485,San miguel
+316,Unimarc,Av. Portugal 56,Santiago
+317,Unimarc,Estado 85,Santiago
+318,Unimarc,Compañía 1214,Santiago
+319,Unimarc,Av. Santa Maria 6940,Vitacura
+320,Unimarc,Av. Vitacura 4607,Vitacura
+321,Unimarc,Principe de Gales 7271,La reina
+322,Unimarc,Salomon Sack 351,Independencia
+323,Unimarc,Salomon Sack 351,Independencia
+324,Unimarc,Av. Manuel Montt 1097,Providencia
+325,Unimarc,Av. Francisco Bilbao 2050,Providencia
+326,Unimarc,Av. Consistorial 2701,Peñalolen
+327,Unimarc,Av. Dorsal 3100,Conchali
+328,Unimarc,Avenida El Canal 19591,Pudahuel
+329,Unimarc,Av. San Pablo 8315,Pudahuel
+330,Unimarc,Av. Las Condes 14791,Lo barnechea
+331,Unimarc,Gran Avenida 6555,La cisterna
+332,Unimarc,Av. Brasil 7085,Renca
+333,Unimarc,Av. Pedro Fontova 7626,Huechuraba
+334,Unimarc,Avenida Alcalde Delano 10497,La dehesa
+335,Unimarc,Santa Rosa 5320,San joaquín
+336,Unimarc,O'hiigins Lote 12259,Talagante
+337,Ciudad Empresarial ,Av. del Parque 4722,Huechuraba
+338,Colina ,La Inmaculada Concepción 47,Colina
+339,Huechuraba ,Av. Sta. Marta de Huechuraba 7300,Huechuraba
+340,Nataniel ,Nataniel Cox 620,Santiago
+341,Quilicura ,Av. Bernardo O'Higgins 800,Quilicura
+342,Recoleta ,Av. Recoleta 806,Recoleta
+343,Vicuña Mackenna ,Vicuña Mackenna 665,Santiago
+344,Vivaceta ,Av. Fermín Vivaceta 1030,Independencia
+345,Alameda ,Av Libertador Bernardo O'Higgins 3470,Santiago
+346,Catedral ,Catedral 1850,Santiago
+347,El Bosque ,Gran Avenida Jose Miguel Carrera,El Bosque
+348,La Cisterna ,Gran Avenida Jose Miguel Carrera 8999,La Cisterna
+349,La Florida ,Av. Américo Vespucio 7310,La Florida
+350,Plaza Oeste ,Av. Américo Vespucio 1501,Los Cerrillos
+351,Walker Martínez ,Walker Martínez 3600,La Florida
+352,Mall Plaza Tobalaba ,Av. Camilo Henríquez 3296,Puente Alto
+353,Puente Alto ,Av. Concha y Toro 1477,Puente Alto
+354,Buín ,San Martín 174,"Buin,"
+355,El Monte ,Los Libertadores 316,El Monte
+356,Melipilla ,Serrano 395,Melipilla
+357,Padre Hurtado ,Camino a Melipilla 2436,"Santiago, Padre Hurtado"
+358,Peñaflor ,Alcalde Luis Araya Cereceda 4237,Peñaflor
+359,Talagante Cordillera ,"Caletera, Los Aromos 0441",Talagante
+360,Talagante Plaza ,Eyzaguirre 715,Talagante
+361,Colina Chamisero ,Av. el Valle Central 12400,"Chicureo, Colina"
+362,Factoria Italia ,Av. Bilbao 451,Providencia
+363,Los Dominicos ,Av. Padre Hurtado Sur 875,Las Condes
+364,Piedra Roja ,Av. Padre Correa,"Chicureo, Colina"
+365,Plaza Egaña ,Av. Larrain 5861,La Reina
+366,Quilín ,"Altos del Parque Sur 5800, local 1",Peñalolén
+367,Vitacura ,Av. Vitacura 9019,Vitacura
+368,Vitacura Alderete ,Av. Vitacura 6980,Vitacura
+369,San Bernardo Estación ,Arturo Prat 117,San Bernardo
+370,San Bernardo Plaza ,O'Higgins 528,San Bernardo

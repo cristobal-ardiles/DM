@@ -1,0 +1,1015 @@
+1654541238722	geckodriver	INFO	Listening on 127.0.0.1:60777
+1654541239503	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "60263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0RuT7n"
+Gtk-Message: 14:47:19.709: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:47:19.710: Failed to load module "canberra-gtk-module"
+1654541257155	geckodriver	INFO	Listening on 127.0.0.1:35751
+1654541257855	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "57961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5czAZg"
+Gtk-Message: 14:47:38.051: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:47:38.052: Failed to load module "canberra-gtk-module"
+1654541711565	geckodriver	INFO	Listening on 127.0.0.1:48081
+1654541711733	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "49667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileusQK7l"
+Gtk-Message: 14:55:12.000: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:55:12.003: Failed to load module "canberra-gtk-module"
+1654541739782	geckodriver	INFO	Listening on 127.0.0.1:57825
+1654541740564	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "48793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3yl6rM"
+Gtk-Message: 14:55:40.834: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:55:40.836: Failed to load module "canberra-gtk-module"
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654541817020	geckodriver	INFO	Listening on 127.0.0.1:45039
+1654541817743	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "44249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileb7r3Ra"
+Gtk-Message: 14:56:57.984: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:56:57.985: Failed to load module "canberra-gtk-module"
+1654541854883	geckodriver	INFO	Listening on 127.0.0.1:40387
+1654541855587	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "56893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTj3G2M"
+Gtk-Message: 14:57:35.840: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:57:35.841: Failed to load module "canberra-gtk-module"
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654542109000	geckodriver	INFO	Listening on 127.0.0.1:34617
+1654542109364	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQ3hC6E"
+Gtk-Message: 15:01:49.467: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:01:49.469: Failed to load module "canberra-gtk-module"
+1654542110328	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58729
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ3hC6E/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654542114684	Marionette	INFO	Listening on port 45881
+DevTools listening on ws://localhost:58729/devtools/browser/690e68ef-fa59-4061-95e7-1fbe704e7a13
+Read port: 45881
+1654542114881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654542301722	Marionette	INFO	Stopped listening on port 45881
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654542305664	geckodriver	INFO	Listening on 127.0.0.1:45753
+1654542306454	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "35311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFg4SuH"
+Gtk-Message: 15:05:06.636: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:05:06.638: Failed to load module "canberra-gtk-module"
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654542598260	geckodriver	INFO	Listening on 127.0.0.1:47611
+1654542598779	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGWRVvF"
+Gtk-Message: 15:09:58.873: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:09:58.874: Failed to load module "canberra-gtk-module"
+1654542599584	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54703
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGWRVvF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654542603275	Marionette	INFO	Listening on port 36669
+Read port: 36669
+DevTools listening on ws://localhost:54703/devtools/browser/4e2d88c0-4f4a-4883-b0a1-21acd6b390ac
+1654542603544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654542653427	geckodriver	INFO	Listening on 127.0.0.1:51811
+1654542653941	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexwOfyy"
+Gtk-Message: 15:10:54.041: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:10:54.042: Failed to load module "canberra-gtk-module"
+1654542654857	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58653
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexwOfyy/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 765))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654542663289	Marionette	INFO	Listening on port 42129
+DevTools listening on ws://localhost:58653/devtools/browser/9722457f-2c61-47d9-a0ea-b1ad221e1290
+Read port: 42129
+1654542663379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654542809493	geckodriver	INFO	Listening on 127.0.0.1:54209
+1654542809751	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerFypCL"
+Gtk-Message: 15:13:29.883: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:13:29.884: Failed to load module "canberra-gtk-module"
+1654542810814	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:39137
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654542811015	Marionette	INFO	Stopped listening on port 36669
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654542811803	Marionette	INFO	Stopped listening on port 42129
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerFypCL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654542816629	Marionette	INFO	Listening on port 43761
+DevTools listening on ws://localhost:39137/devtools/browser/7ab7b61a-8239-4fdc-9277-7b7812999bf4
+Read port: 43761
+1654542816690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654543303191	geckodriver	INFO	Listening on 127.0.0.1:55313
+1654543303675	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiwnpPM"
+Gtk-Message: 15:21:43.774: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:21:43.775: Failed to load module "canberra-gtk-module"
+1654543304505	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:47285
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiwnpPM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654543309091	Marionette	INFO	Listening on port 39963
+DevTools listening on ws://localhost:47285/devtools/browser/4071e804-9b24-43ac-adff-d0ef02c7c59c
+Read port: 39963
+1654543309202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654543388632	geckodriver	INFO	Listening on 127.0.0.1:56313
+1654543389171	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7zh7h4"
+Gtk-Message: 15:23:09.295: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:23:09.296: Failed to load module "canberra-gtk-module"
+1654543390052	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50879
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7zh7h4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654543396249	Marionette	INFO	Listening on port 46389
+DevTools listening on ws://localhost:50879/devtools/browser/a2fc613f-8804-44ba-bad5-eff026a6a5a2
+Read port: 46389
+1654543396301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654543397740	Marionette	INFO	Stopped listening on port 43761
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654543399154	Marionette	INFO	Stopped listening on port 39963
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+console.error: "Unable to find target with innerWindowId:4294967300"
+console.error: "Unable to find target with innerWindowId:4294967301"
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+console.error: "Unable to find target with innerWindowId:4294967304"
+1654544325363	geckodriver	INFO	Listening on 127.0.0.1:58129
+1654544325814	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8Vr6mk"
+Gtk-Message: 15:38:45.905: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:38:45.907: Failed to load module "canberra-gtk-module"
+1654544326660	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53877
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8Vr6mk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654544330418	Marionette	INFO	Listening on port 32885
+Read port: 32885
+1654544330459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53877/devtools/browser/03c85468-2084-4e7a-bc6e-80afaa71a65f
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654544366148	geckodriver	INFO	Listening on 127.0.0.1:37961
+1654544366646	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefWP4Cs"
+Gtk-Message: 15:39:26.737: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:39:26.738: Failed to load module "canberra-gtk-module"
+1654544367494	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:34721
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654544369009	Marionette	INFO	Stopped listening on port 46389
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654544369895	Marionette	INFO	Stopped listening on port 32885
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefWP4Cs/search.json.mozlz4", (void 0)))
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654544373805	Marionette	INFO	Listening on port 38797
+DevTools listening on ws://localhost:34721/devtools/browser/8551c2be-280e-42fa-918b-7f03c5d54c0d
+Read port: 38797
+1654544373877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654544646117	geckodriver	INFO	Listening on 127.0.0.1:40469
+1654544646652	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileexVSu0"
+Gtk-Message: 15:44:06.764: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:44:06.765: Failed to load module "canberra-gtk-module"
+1654544647578	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51145
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileexVSu0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654544651688	Marionette	INFO	Listening on port 36795
+DevTools listening on ws://localhost:51145/devtools/browser/5f94ef3f-c8ba-4004-b3d3-fdca4de64cdf
+Read port: 36795
+1654544652056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654544840736	geckodriver	INFO	Listening on 127.0.0.1:40089
+1654544841219	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9L4ZSl"
+Gtk-Message: 15:47:21.322: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:47:21.324: Failed to load module "canberra-gtk-module"
+1654544842078	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53559
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654544842211	Marionette	INFO	Stopped listening on port 36795
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654544843485	Marionette	INFO	Stopped listening on port 38797
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9L4ZSl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654544846611	Marionette	INFO	Listening on port 33917
+Read port: 33917
+DevTools listening on ws://localhost:53559/devtools/browser/efeaf9d2-98fc-4092-873a-ce13b449e6bb
+1654544846653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654544934546	geckodriver	INFO	Listening on 127.0.0.1:54707
+1654544935075	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5uGOaV"
+Gtk-Message: 15:48:55.179: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:48:55.180: Failed to load module "canberra-gtk-module"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654544935777	Marionette	INFO	Stopped listening on port 33917
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654544936015	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:40285
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5uGOaV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654544941434	Marionette	INFO	Listening on port 41101
+DevTools listening on ws://localhost:40285/devtools/browser/58b31852-0ef5-444c-a22d-1f547b3b683c
+Read port: 41101
+1654544941712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654544992089	Marionette	INFO	Stopped listening on port 41101
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 906: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1654544993711	geckodriver	INFO	Listening on 127.0.0.1:41027
+1654544994198	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIUiH2f"
+Gtk-Message: 15:49:54.317: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:49:54.318: Failed to load module "canberra-gtk-module"
+1654544995071	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:38843
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIUiH2f/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654544999529	Marionette	INFO	Listening on port 41525
+DevTools listening on ws://localhost:38843/devtools/browser/f19e7aaa-75f1-41b4-9067-5cf433f33665
+Read port: 41525
+1654545000200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654545470708	geckodriver	INFO	Listening on 127.0.0.1:35569
+1654545471191	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "55785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZlQqAg"
+*** You are running in headless mode.
+1654545471485	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55785
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZlQqAg/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654545475159	Marionette	INFO	Listening on port 44233
+DevTools listening on ws://localhost:55785/devtools/browser/6c9c7e43-060a-4952-a56d-820bc82b119d
+Read port: 44233
+1654545475211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654546014027	geckodriver	INFO	Listening on 127.0.0.1:33617
+1654546014538	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "56243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4PmOs4"
+*** You are running in headless mode.
+1654546014848	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56243
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4PmOs4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654546018607	Marionette	INFO	Listening on port 32867
+DevTools listening on ws://localhost:56243/devtools/browser/3bc012e0-61f6-4bd5-96d6-13624b6a83cb
+Read port: 32867
+1654546018670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654546072836	geckodriver	INFO	Listening on 127.0.0.1:40967
+1654546073327	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "43415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFzDEHz"
+*** You are running in headless mode.
+1654546073635	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:43415
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFzDEHz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654546077792	Marionette	INFO	Listening on port 37535
+DevTools listening on ws://localhost:43415/devtools/browser/7ec52a04-dc76-4f15-9a59-1484ae538d5a
+Read port: 37535
+1654546078077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654546091210	geckodriver	INFO	Listening on 127.0.0.1:59301
+1654546091720	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "41461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSHyj5g"
+*** You are running in headless mode.
+1654546092019	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:41461
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSHyj5g/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654546095872	Marionette	INFO	Listening on port 41975
+DevTools listening on ws://localhost:41461/devtools/browser/06986a89-e534-4d4d-837f-0cf6765d7423
+Read port: 41975
+1654546095957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654546334128	geckodriver	INFO	Listening on 127.0.0.1:33699
+1654546334635	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLVD2V2"
+*** You are running in headless mode.
+1654546334923	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60891
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLVD2V2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654546339037	Marionette	INFO	Listening on port 36203
+Read port: 36203
+1654546339059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:60891/devtools/browser/52ee5482-8e52-47e2-b754-fe0db1893b2e
+1654546359908	geckodriver	INFO	Listening on 127.0.0.1:49805
+1654546360351	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "38103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledSjmVc"
+*** You are running in headless mode.
+1654546360691	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:38103
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledSjmVc/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 765))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654546369547	Marionette	INFO	Listening on port 33793
+Read port: 33793
+DevTools listening on ws://localhost:38103/devtools/browser/db518cd4-e759-492d-bb07-891edc7b6416
+1654546369598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654546446118	geckodriver	INFO	Listening on 127.0.0.1:54131
+1654546446598	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9F2JxH"
+*** You are running in headless mode.
+1654546446937	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:36525
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9F2JxH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654546452451	Marionette	INFO	Listening on port 45973
+DevTools listening on ws://localhost:36525/devtools/browser/fa5391d6-5b51-45d2-b6f1-579aa330c779
+Read port: 45973
+1654546452573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654546592553	geckodriver	INFO	Listening on 127.0.0.1:45063
+1654546593023	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "47899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile66Gcry"
+*** You are running in headless mode.
+1654546593631	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:47899
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile66Gcry/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654546600515	Marionette	INFO	Listening on port 45883
+Read port: 45883
+DevTools listening on ws://localhost:47899/devtools/browser/e7cf2863-898a-47a8-a6b8-a5a452aed7e1
+1654546600704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654546795019	geckodriver	INFO	Listening on 127.0.0.1:55973
+1654546795223	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "49803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePxVk9Q"
+*** You are running in headless mode.
+1654546795577	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49803
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePxVk9Q/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654546799644	Marionette	INFO	Listening on port 36551
+DevTools listening on ws://localhost:49803/devtools/browser/58498829-50df-445e-b9fc-9f4aa4011244
+Read port: 36551
+1654546799776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654546825861	geckodriver	INFO	Listening on 127.0.0.1:36461
+1654546826385	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8rCwoo"
+*** You are running in headless mode.
+1654546826713	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:34131
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8rCwoo/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 765))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654546834256	Marionette	INFO	Listening on port 36573
+DevTools listening on ws://localhost:34131/devtools/browser/35d4eaa6-12e0-4330-b6af-134b52f1cd84
+Read port: 36573
+1654546834332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654547014877	geckodriver	INFO	Listening on 127.0.0.1:59441
+1654547015221	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "41073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecEa1Qv"
+*** You are running in headless mode.
+1654547015534	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:41073
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecEa1Qv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654547019654	Marionette	INFO	Listening on port 39107
+DevTools listening on ws://localhost:41073/devtools/browser/cae998fb-7a3c-4860-801c-82d5e13b404a
+Read port: 39107
+1654547019855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654547301894	geckodriver	INFO	Listening on 127.0.0.1:37087
+1654547302365	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexBZXYF"
+*** You are running in headless mode.
+1654547302686	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60421
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexBZXYF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654547308687	Marionette	INFO	Listening on port 35315
+DevTools listening on ws://localhost:60421/devtools/browser/e76e2d83-6c67-4d57-96fc-1e9e0a0127a2
+Read port: 35315
+1654547308850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654547490277	geckodriver	INFO	Listening on 127.0.0.1:37187
+1654547490773	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAKgLna"
+*** You are running in headless mode.
+1654547491079	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50307
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAKgLna/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654547496056	Marionette	INFO	Listening on port 34077
+DevTools listening on ws://localhost:50307/devtools/browser/65e8a32a-fdd0-480f-9ecb-fecc0b7753c9
+Read port: 34077
+1654547496320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654547900794	geckodriver	INFO	Listening on 127.0.0.1:51877
+1654547901051	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "44275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRkHFHt"
+*** You are running in headless mode.
+1654547901449	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:44275
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRkHFHt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654547905488	Marionette	INFO	Listening on port 35513
+DevTools listening on ws://localhost:44275/devtools/browser/3ea7e3e5-61f4-45f6-862a-4bd98ebdf69c
+Read port: 35513
+1654547905748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654548074837	geckodriver	INFO	Listening on 127.0.0.1:48445
+1654548075354	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "45931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezgbhlL"
+*** You are running in headless mode.
+1654548075681	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:45931
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezgbhlL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654548081165	Marionette	INFO	Listening on port 45171
+Read port: 45171
+DevTools listening on ws://localhost:45931/devtools/browser/977d0f05-531e-405c-b510-e0cab92b8408
+1654548081334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+1654565299284	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1654566273134	geckodriver	INFO	Listening on 127.0.0.1:37919
+1654566273674	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFcPypb"
+Gtk-Message: 21:44:34.041: Failed to load module "canberra-gtk-module"
+Gtk-Message: 21:44:34.080: Failed to load module "canberra-gtk-module"
+1654566276051	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:47331
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFcPypb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654566281551	Marionette	INFO	Listening on port 34185
+DevTools listening on ws://localhost:47331/devtools/browser/274569d9-4357-425d-9a0f-6665696478f4
+Read port: 34185
+1654566281609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654566423617	geckodriver	INFO	Listening on 127.0.0.1:52567
+1654566424166	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejBNKZe"
+Gtk-Message: 21:47:04.276: Failed to load module "canberra-gtk-module"
+Gtk-Message: 21:47:04.277: Failed to load module "canberra-gtk-module"
+1654566425014	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:37759
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejBNKZe/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654566430213	Marionette	INFO	Listening on port 33095
+DevTools listening on ws://localhost:37759/devtools/browser/defd6a46-6f84-4da7-864c-a7b917c2045f
+Read port: 33095
+1654566430302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654566564081	Marionette	INFO	Stopped listening on port 34185
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654566565107	Marionette	INFO	Stopped listening on port 33095
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PRemoteWorkerService::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654566566090	Marionette	INFO	Stopped listening on port 41525
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1654566578662	geckodriver	INFO	Listening on 127.0.0.1:48915
+1654566579106	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "53345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenyf7t0"
+*** You are running in headless mode.
+1654566579520	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53345
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenyf7t0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654566583968	Marionette	INFO	Listening on port 36307
+DevTools listening on ws://localhost:53345/devtools/browser/7bbcce19-cc50-4921-8737-8a469428f47f
+Read port: 36307
+1654566584273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654566677015	geckodriver	INFO	Listening on 127.0.0.1:40963
+1654566677548	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "45609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesB9EcH"
+*** You are running in headless mode.
+1654566677907	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:45609
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesB9EcH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654566682306	Marionette	INFO	Listening on port 46231
+DevTools listening on ws://localhost:45609/devtools/browser/d90902e1-b8a7-48b3-b1de-444d45c67949
+Read port: 46231
+1654566682785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/esm/popper.min.js, line 4: SyntaxError: export declarations may only appear at top level of a module
+1654567521310	geckodriver	INFO	Listening on 127.0.0.1:52381
+1654567521864	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK9NvXZ"
+Gtk-Message: 22:05:22.010: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:05:22.015: Failed to load module "canberra-gtk-module"
+1654567522977	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58809
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK9NvXZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654567527019	Marionette	INFO	Listening on port 45965
+DevTools listening on ws://localhost:58809/devtools/browser/27527e9a-3438-4b42-a808-478a20460e2f
+Read port: 45965
+1654567527118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.jumbo.cl/c22e77cbee6accc79eb4-bundle.js, line 2: TypeError: e is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1654570588966	geckodriver	INFO	Listening on 127.0.0.1:40981
+1654570589154	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepcrhIb"
+Gtk-Message: 22:56:29.442: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:56:29.444: Failed to load module "canberra-gtk-module"
+1654570590864	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:38833
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepcrhIb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654570597547	Marionette	INFO	Listening on port 44269
+Read port: 44269
+DevTools listening on ws://localhost:38833/devtools/browser/d9d7c9fc-86c4-4950-839b-bbcfccfd6ec6
+1654570597802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654570683044	Marionette	INFO	Stopped listening on port 45965
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1654570731808	geckodriver	INFO	Listening on 127.0.0.1:46041
+1654570732032	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSWBPaz"
+Gtk-Message: 22:58:52.138: Failed to load module "canberra-gtk-module"
+Gtk-Message: 22:58:52.139: Failed to load module "canberra-gtk-module"
+1654570732945	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60221
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSWBPaz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654570737574	Marionette	INFO	Listening on port 37537
+DevTools listening on ws://localhost:60221/devtools/browser/4f350b63-3fc2-4d51-a950-0be90dd1b1cc
+Read port: 37537
+1654570737666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.jumbo.cl/c22e77cbee6accc79eb4-bundle.js, line 2: TypeError: e is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654571000060	Marionette	INFO	Stopped listening on port 44269
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654571004402	Marionette	INFO	Stopped listening on port 37537
+console.error: services.settings: 
+  main/normandy-recipes-capabilities Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:153:26
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+1654571166493	geckodriver	INFO	Listening on 127.0.0.1:40545
+1654571166970	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileApIxFI"
+Gtk-Message: 23:06:07.100: Failed to load module "canberra-gtk-module"
+Gtk-Message: 23:06:07.101: Failed to load module "canberra-gtk-module"
+1654571168063	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:48423
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileApIxFI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654571173027	Marionette	INFO	Listening on port 44923
+DevTools listening on ws://localhost:48423/devtools/browser/ecbd0658-2cb1-4096-acfb-66bc934f539e
+Read port: 44923
+1654571173107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654571208444	geckodriver	INFO	Listening on 127.0.0.1:42753
+1654571208882	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelVzZrk"
+Gtk-Message: 23:06:49.057: Failed to load module "canberra-gtk-module"
+Gtk-Message: 23:06:49.060: Failed to load module "canberra-gtk-module"
+1654571209987	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:47897
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654571210914	Marionette	INFO	Stopped listening on port 44923
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelVzZrk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654571214761	Marionette	INFO	Listening on port 43377
+DevTools listening on ws://localhost:47897/devtools/browser/8a7c3cdb-24b2-425f-87ac-6cad8d82df3c
+Read port: 43377
+1654571214809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654571252462	Marionette	INFO	Stopped listening on port 43377
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654571257126	geckodriver	INFO	Listening on 127.0.0.1:38947
+1654571257654	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIRxVFf"
+*** You are running in headless mode.
+1654571257964	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50061
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIRxVFf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654571262020	Marionette	INFO	Listening on port 44905
+DevTools listening on ws://localhost:50061/devtools/browser/d5c11d54-ff8d-451b-a343-5c4d98324a28
+Read port: 44905
+1654571262125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.jumbo.cl/c22e77cbee6accc79eb4-bundle.js, line 2: TypeError: e is undefined
+1654571415079	geckodriver	INFO	Listening on 127.0.0.1:48495
+1654571415626	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1L9j1R"
+Gtk-Message: 23:10:15.732: Failed to load module "canberra-gtk-module"
+Gtk-Message: 23:10:15.733: Failed to load module "canberra-gtk-module"
+1654571416471	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:45881
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1L9j1R/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654571420767	Marionette	INFO	Listening on port 39261
+DevTools listening on ws://localhost:45881/devtools/browser/a9c29504-fc8d-40e3-8185-9d306fed3f67
+Read port: 39261
+1654571420854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654571481084	geckodriver	INFO	Listening on 127.0.0.1:39075
+1654571481626	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "44161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexTC8CW"
+*** You are running in headless mode.
+1654571481963	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:44161
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexTC8CW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654571487389	Marionette	INFO	Listening on port 44415
+DevTools listening on ws://localhost:44161/devtools/browser/9edeeaae-baef-4de7-92be-4de6b9b16572
+Read port: 44415
+1654571487461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654571507381	geckodriver	INFO	Listening on 127.0.0.1:51499
+1654571507774	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSqfB33"
+*** You are running in headless mode.
+1654571508854	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:39179
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSqfB33/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654571515098	Marionette	INFO	Listening on port 34463
+DevTools listening on ws://localhost:39179/devtools/browser/5fd2746e-ddff-45ee-96ab-aa77e055df82
+Read port: 34463
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1654571515887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654571549756	Marionette	INFO	Stopped listening on port 39261
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1654571556308	geckodriver	INFO	Listening on 127.0.0.1:53869
+1654571556830	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileG2KwnI"
+*** You are running in headless mode.
+1654571557331	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:36407
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG2KwnI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654571561390	Marionette	INFO	Listening on port 46797
+DevTools listening on ws://localhost:36407/devtools/browser/51d28559-3857-4668-829c-0bc6dc269979
+Read port: 46797
+1654571562150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.jumbo.cl/c22e77cbee6accc79eb4-bundle.js, line 2: TypeError: e is undefined
+1654573201300	geckodriver	INFO	Listening on 127.0.0.1:49461
+1654573201454	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "33699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledfhsWv"
+*** You are running in headless mode.
+1654573201882	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:33699
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledfhsWv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654573206227	Marionette	INFO	Listening on port 37305
+DevTools listening on ws://localhost:33699/devtools/browser/926d9a96-bad8-42dd-8a35-33c5ef560567
+Read port: 37305
+1654573206287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1654573409763	geckodriver	INFO	Listening on 127.0.0.1:49147
+1654573410347	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerPLM95"
+*** You are running in headless mode.
+1654573411426	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:34019
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerPLM95/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654573415570	Marionette	INFO	Listening on port 45275
+DevTools listening on ws://localhost:34019/devtools/browser/a3fd64d8-e1c6-41a1-9a24-cc5a6075f3b6
+Read port: 45275
+1654573415798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://locales.unimarc.cl/locales_unimarc/, line 357: ReferenceError: google is not defined
+1654573532660	geckodriver	INFO	Listening on 127.0.0.1:35121
+1654573533119	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileehH5o0"
+Gtk-Message: 23:45:33.740: Failed to load module "canberra-gtk-module"
+Gtk-Message: 23:45:33.757: Failed to load module "canberra-gtk-module"
+1654573535346	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:41621
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileehH5o0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654573541858	Marionette	INFO	Listening on port 38803
+DevTools listening on ws://localhost:41621/devtools/browser/b2076030-7f1f-4943-a93a-8c14fcbed4a7
+Read port: 38803
+1654573541953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://locales.unimarc.cl/locales_unimarc/, line 357: ReferenceError: google is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://locales.unimarc.cl/locales_unimarc/robots.txt, line 381: TypeError: btnCloseModal is null
+JavaScript error: https://locales.unimarc.cl/locales_unimarc/robots.txt, line 644: ReferenceError: initCarousel is not defined
+JavaScript error: https://locales.unimarc.cl/wp-content/themes/unimarc/js/unimarc.js, line 1: SyntaxError: redeclaration of const root
+JavaScript error: https://locales.unimarc.cl/locales_unimarc/robots.txt, line 513: ReferenceError: SyntaxHighlighter is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654573614275	Marionette	INFO	Stopped listening on port 38803
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1654573622572	geckodriver	INFO	Listening on 127.0.0.1:50879
+1654573623944	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegXuHPU"
+Gtk-Message: 23:47:04.507: Failed to load module "canberra-gtk-module"
+Gtk-Message: 23:47:04.533: Failed to load module "canberra-gtk-module"
+1654573626805	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:34163
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegXuHPU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654573632995	Marionette	INFO	Listening on port 42165
+DevTools listening on ws://localhost:34163/devtools/browser/b0bb4e15-7edf-4105-a96f-c975c3a7e93f
+Read port: 42165
+1654573633196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1654573909491	geckodriver	INFO	Listening on 127.0.0.1:59121
+1654573909651	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "42395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWEd7Bi"
+*** You are running in headless mode.
+1654573910294	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:42395
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWEd7Bi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654573915984	Marionette	INFO	Listening on port 37905
+DevTools listening on ws://localhost:42395/devtools/browser/12090fac-b4f0-4740-a4db-3a81e88b6101
+Read port: 37905
+1654573916536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1654574048657	geckodriver	INFO	Listening on 127.0.0.1:55537
+1654574049219	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "52597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6lQuYh"
+*** You are running in headless mode.
+1654574049542	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52597
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6lQuYh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654574054244	Marionette	INFO	Listening on port 46659
+DevTools listening on ws://localhost:52597/devtools/browser/77e82732-be9d-4930-8f1a-f83edb291f81
+Read port: 46659
+1654574054602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654574076037	Marionette	INFO	Stopped listening on port 42165
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654574079848	geckodriver	INFO	Listening on 127.0.0.1:60437
+1654574080469	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCkDeuf"
+*** You are running in headless mode.
+1654574080779	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:34315
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCkDeuf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654574084829	Marionette	INFO	Listening on port 39057
+DevTools listening on ws://localhost:34315/devtools/browser/6a13e116-3c49-40f2-9f9a-8ee41ffd9609
+Read port: 39057
+1654574085108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://locales.unimarc.cl/locales_unimarc/, line 357: ReferenceError: google is not defined
+1654574111284	geckodriver	INFO	Listening on 127.0.0.1:53501
+1654574111669	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOZGRkf"
+Gtk-Message: 23:55:11.773: Failed to load module "canberra-gtk-module"
+Gtk-Message: 23:55:11.774: Failed to load module "canberra-gtk-module"
+1654574112726	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:34423
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOZGRkf/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 765))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654574119545	Marionette	INFO	Listening on port 43383
+DevTools listening on ws://localhost:34423/devtools/browser/f3bb32b1-0ed3-494c-8968-24cc440605e8
+Read port: 43383
+1654574119605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654574267147	Marionette	INFO	Stopped listening on port 43383
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654574271083	geckodriver	INFO	Listening on 127.0.0.1:36309
+1654574271443	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileES63P2"
+Gtk-Message: 23:57:51.626: Failed to load module "canberra-gtk-module"
+Gtk-Message: 23:57:51.630: Failed to load module "canberra-gtk-module"
+1654574273030	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:46279
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileES63P2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654574278398	Marionette	INFO	Listening on port 45955
+DevTools listening on ws://localhost:46279/devtools/browser/8b2c1de6-12b5-4349-969c-e1b7f9b0638b
+Read port: 45955
+1654574279015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1654574503210	geckodriver	INFO	Listening on 127.0.0.1:44105
+1654574503693	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZlzhIF"
+Gtk-Message: 00:01:43.826: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:01:43.828: Failed to load module "canberra-gtk-module"
+1654574504692	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57851
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZlzhIF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654574509718	Marionette	INFO	Listening on port 36655
+DevTools listening on ws://localhost:57851/devtools/browser/25c839bb-392f-46d4-b1ad-2633b8745918
+Read port: 36655
+1654574509819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://locales.unimarc.cl/locales_unimarc/, line 357: ReferenceError: google is not defined
+1654574525031	geckodriver	INFO	Listening on 127.0.0.1:55323
+1654574525554	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDBzcOJ"
+Gtk-Message: 00:02:05.662: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:02:05.664: Failed to load module "canberra-gtk-module"
+1654574526829	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:45197
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654574527355	Marionette	INFO	Stopped listening on port 36655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDBzcOJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654574531582	Marionette	INFO	Listening on port 32925
+DevTools listening on ws://localhost:45197/devtools/browser/b97c4349-90b5-4e65-827e-df751a891915
+Read port: 32925
+1654574531688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654574532424	Marionette	INFO	Stopped listening on port 45955
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654576567435	Marionette	INFO	Stopped listening on port 32925
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654576596525	geckodriver	INFO	Listening on 127.0.0.1:48773
+1654576596803	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEOWK7M"
+Gtk-Message: 00:36:37.768: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:37.771: Failed to load module "canberra-gtk-module"
+1654576600443	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57083
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEOWK7M/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654576606455	Marionette	INFO	Listening on port 43697
+DevTools listening on ws://localhost:57083/devtools/browser/26dc0aef-de8b-4869-b7cb-08ab470d72e9
+Read port: 43697
+1654576606541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654576715423	Marionette	INFO	Stopped listening on port 43697
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1654576719277	geckodriver	INFO	Listening on 127.0.0.1:43461
+1654576719777	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT3k5FY"
+Gtk-Message: 00:38:39.925: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:38:39.926: Failed to load module "canberra-gtk-module"
+1654576720909	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51621
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT3k5FY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1654576725400	Marionette	INFO	Listening on port 35485
+DevTools listening on ws://localhost:51621/devtools/browser/77eebf86-5f79-4c79-bf26-2f41117699f3
+Read port: 35485
+1654576725543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1654579809532	Marionette	INFO	Stopped listening on port 35485
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
